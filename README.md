@@ -2,7 +2,6 @@
 
 A Streamlit application that extracts product URLs from multiple e-commerce platforms including Amazon, eBay, Walmart, and Airbnb. This tool allows users to search for products across different platforms and obtain a list of product URLs, which can be downloaded as CSV files.
 
-![Streamlit App Demo](https://raw.githubusercontent.com/your-username/your-repo-name/main/demo.gif)
 
 ## 🌟 Features
 
@@ -21,22 +20,21 @@ A Streamlit application that extracts product URLs from multiple e-commerce plat
 
 ```
 product-url-extractor/
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Project dependencies
-├── scrapers/
-│   ├── amazon.py          # Amazon scraper script
-│   ├── ebay.py            # eBay scraper script
-│   ├── walmart.py         # Walmart scraper script
-│   └── airbnb.py          # Airbnb scraper script
-└── README.md              # Project documentation
+├── app.py             # Main Streamlit application
+├── requirements.txt   # Project dependencies
+├── amazon.py          # Amazon scraper script
+├── ebay.py            # eBay scraper script
+├── walmart.py         # Walmart scraper script
+│── Airbnb.py          # Airbnb scraper script
+└── README.md          # Project documentation
 ```
 
 ## 🔧 Installation & Setup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/product-url-extractor.git
-cd product-url-extractor
+git clone https://github.com/Neerajpokala/Product-URL-Extractor---Multi-Platform-Search-Tool.git
+cd Product-URL-Extractor---Multi-Platform-Search-Tool
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
