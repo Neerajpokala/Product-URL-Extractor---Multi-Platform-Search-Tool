@@ -1,0 +1,4 @@
+streamlit
+selenium
+selenium-stealth
+beautifulsoup4
