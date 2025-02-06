@@ -20,7 +20,7 @@ A Streamlit application that extracts product URLs from multiple e-commerce plat
 
 ```
 product-url-extractor/
-├── app.py             # Main Streamlit application
+├── streamlit_app.py   # Main Streamlit application
 ├── requirements.txt   # Project dependencies
 ├── amazon.py          # Amazon scraper script
 ├── ebay.py            # eBay scraper script
